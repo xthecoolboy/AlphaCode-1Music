@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Discord.js bot on Heroku",
   "main": "bot.js",
+  "scripts":
+   "start": "node bot.js”,
   "dependencies": {
     "node": "8.x",
     "discord.js": "^11.3.2",
